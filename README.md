@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab2310&label=Profile%20views&color=0e75b6&style=flat" alt="ab2310" /> </p>
 
-- 🌱 Learning **I'm taking my first steps into the world of coding and technology. My GitHub journey is a place to document my progress and share my experiences as I discover new skills and languages.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
