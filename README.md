@@ -17,6 +17,7 @@
 <br clear="both">
 
 <div align="left">
+  🌐 Socials: <br>
   <a href="https://www.linkedin.com/in/abey-thomson-2000k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -28,6 +29,7 @@
 ###
 
 <div align="left">
+  💻 Tech Stack:  <br>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
@@ -54,6 +56,7 @@
 ###
 
 <div align="center">
+  📊 GitHub Stats:  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AB2310&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AB2310&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AB2310&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
